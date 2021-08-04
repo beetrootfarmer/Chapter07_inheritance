@@ -1,6 +1,6 @@
 package ch07_1_inheritance;
 
-public class CellPhon {
+public class CellPhone {
 
 	String model;
 	String color;
