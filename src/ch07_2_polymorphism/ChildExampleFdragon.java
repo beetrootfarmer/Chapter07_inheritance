@@ -31,7 +31,7 @@ class Child extends Parent {
 
 public class ChildExampleFdragon {
 	public static void main(String[] args) {
-		// 객체생성
+//		 객체생성
 		Child c = new Child();
 		c.print();
 	}
