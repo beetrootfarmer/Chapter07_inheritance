@@ -43,6 +43,7 @@ public class AnimalExample {
 		animal.sound();
 		animal = new Cat();
 		animal.sound();
+		System.out.println("-----");
 		
 		// 메소드의 다형성
 		animalSound(new Dog()); //animalSound로 자동 형변환 

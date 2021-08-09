@@ -61,7 +61,7 @@ public class MyFriends2 {
 		frns[cnt++] = new UnivFriend("Seo", "Korean", "010-3");
 		
 		//직장동료  추가
-		frns[cnt++] = new CompFriend("An", "Arrow", "010-1");
+		frns[cnt++] = new CompFriend("An", "Archery", "010-1");
 		frns[cnt++] = new CompFriend("Choi", "Crossfit", "010-2");
 		frns[cnt++] = new CompFriend("Moon", "Dance", "010-3");
 		

@@ -8,7 +8,7 @@ abstract class Phone {
 	public Phone(String owner) {
 		this.owner = owner;
 	}
-	// 메소
+	// 메소드
 	public void turnOn() {
 		System.out.println("폰 전원을 켭니다.");
 	}
@@ -24,7 +24,7 @@ class SmartPhone extends Phone {
 	}
 	//메소드 
 	public void internretSearch() {
-		System.out.println("인터넷을 검색합니");
+		System.out.println("인터넷을 검색합니다");
 	}
 }
 public class PhoneExample {
